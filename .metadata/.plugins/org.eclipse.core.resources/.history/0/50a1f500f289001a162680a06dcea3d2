@@ -1,0 +1,11 @@
+package oops.motorbike;
+
+public class MotorBike {
+	// State
+
+	// Behaviour
+
+	void start() {
+		System.out.println("Bike Started!");
+	}
+}

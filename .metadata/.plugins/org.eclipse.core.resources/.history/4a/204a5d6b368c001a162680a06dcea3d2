@@ -1,0 +1,21 @@
+package JavaDtypes;
+
+import java.math.BigDecimal;
+
+public class SimpleInterestCalculator {
+
+	BigDecimal principal;
+
+	BigDecimal interest;
+
+	public SimpleInterestCalculator(String principal, String interest) {
+		this.principal = new BigDecimal(principal);
+		this.interest = new BigDecimal(interest);
+	}
+
+	public BigDecimal calculateTotalValue(int i) {
+		
+		return null;
+	}
+
+}

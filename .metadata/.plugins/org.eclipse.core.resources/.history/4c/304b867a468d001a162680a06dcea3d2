@@ -1,0 +1,21 @@
+package com.loops;
+
+public class WhileNumberPlayer {
+
+	private int limit;
+
+	public WhileNumberPlayer(int limit) {
+		this.limit = limit;
+	}
+
+	public void printSquaresUptoLimit() {
+
+
+	}
+
+	public void printCubesUptoLimit() {
+
+
+	}
+
+}

@@ -1,0 +1,15 @@
+package oops.motorbike;
+
+public class MotorBike {
+	// State
+	private int speed;
+
+	// Behaviour
+	void changeSpeed(int val) {
+		speed = val;
+	}
+	
+	void start() {
+		System.out.println("Bike Started!");
+	}
+}

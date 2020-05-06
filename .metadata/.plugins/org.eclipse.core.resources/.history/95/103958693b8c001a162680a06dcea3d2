@@ -1,0 +1,22 @@
+package JavaDtypes;
+
+public class MyChar {
+
+	private char ch;
+
+	public MyChar(char ch) {
+		this.ch = ch;
+	}
+
+	// public boolean
+
+	public static void printLowerCaseAlphabets() {
+
+	}
+
+	public static void printUpperCaseAlphabets() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

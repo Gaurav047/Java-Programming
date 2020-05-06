@@ -1,0 +1,7 @@
+package oops.motorbike;
+
+public class MotorBike {
+	void start() {
+		
+	}
+}

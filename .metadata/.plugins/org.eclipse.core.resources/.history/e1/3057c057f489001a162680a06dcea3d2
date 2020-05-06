@@ -1,0 +1,20 @@
+package oops.motorbike;
+
+public class MotorBikeRunner {
+
+	public static void main(String[] args) {
+		MotorBike Honda = new MotorBike();
+		MotorBike Ducati = new MotorBike();
+
+		Ducati.start();
+		Honda.start();
+
+		Ducati.changeSpeed(100);
+		Honda.changeSpeed(50);
+
+		Ducati.printSpeed();
+		Honda.printSpeed();
+
+	}
+
+}
