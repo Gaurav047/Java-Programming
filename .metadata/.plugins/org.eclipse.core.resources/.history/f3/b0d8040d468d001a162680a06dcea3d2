@@ -1,9 +1,0 @@
-package com.loops;
-
-public class WhileNumberPlayer {
-
-	public WhileNumberPlayer(int i) {
-		// TODO Auto-generated constructor stub
-	}
-
-}

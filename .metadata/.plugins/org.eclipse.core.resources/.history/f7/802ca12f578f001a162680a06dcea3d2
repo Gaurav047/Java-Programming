@@ -1,9 +1,0 @@
-package oops2;
-
-public class Oops2Runner {
-
-	public static void main(String[] args) {
-		
-	}
-
-}
